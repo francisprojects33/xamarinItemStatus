@@ -1,0 +1,14 @@
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\bin\Debug\netstandard2.0\Access_Individual_PropertyApp.deps.json
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\bin\Debug\netstandard2.0\Access_Individual_PropertyApp.dll
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\bin\Debug\netstandard2.0\ref\Access_Individual_PropertyApp.dll
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\bin\Debug\netstandard2.0\Access_Individual_PropertyApp.pdb
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\ItemViewPage.xaml.g.cs
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\Access_Individual_PropertyApp.AssemblyInfoInputs.cache
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\Access_Individual_PropertyApp.AssemblyInfo.cs
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\Access_Individual_PropertyApp.csproj.CoreCompileInputs.cache
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\Access_Individual_PropertyApp.dll
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\ref\Access_Individual_PropertyApp.dll
+C:\XamarinTest2022\13. IndividualProperty\Access_Individual_PropertyApp\Access_Individual_PropertyApp\obj\Debug\netstandard2.0\Access_Individual_PropertyApp.pdb

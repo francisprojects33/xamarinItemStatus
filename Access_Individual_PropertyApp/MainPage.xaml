@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Access_Individual_PropertyApp.MainPage"
+             xmlns:local="clr-namespace:Access_Individual_PropertyApp.ViewModels">
+
+    <ContentPage.BindingContext>
+        <local:MyViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        
+        <StackLayout Margin="5, 5" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" >
+            <Button Text="Change Status" Clicked="Button_Clicked" BackgroundColor="DodgerBlue" FontSize="Small" CornerRadius="10" TextColor="white" WidthRequest="100" HeightRequest="40" HorizontalOptions="Center" />
+        </StackLayout>
+
+        <StackLayout Margin="5, 5" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" >
+            <Button Text="Show Item Page" Clicked="OnClickShowItemPage_Clicked" BackgroundColor="DodgerBlue" FontSize="Small" CornerRadius="10" TextColor="white" WidthRequest="100" HeightRequest="40" HorizontalOptions="Center" />
+        </StackLayout>
+
+        <!--<ListView x:Name="MyListView"
+            ItemsSource="{Binding Items}"
+            CachingStrategy="RecycleElement">
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding .}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>-->
+
+
+        <ListView ItemsSource="{Binding .}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding ItemId}" />
+                        <Label Text="{Binding ItemDescription}" />
+                        <Label Text="{Binding ItemStatus}" />
+                    </StackLayout>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+    </StackLayout>
+
+</ContentPage>
